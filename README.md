@@ -4,9 +4,15 @@
 This is a simple Android app designed as part of my university project.
 
 ## Screenshots  
-![Start_App](app1.png)  
-_This is the Starting screen of the app._  
+![Start_App](screenshorts/app1.png)  
+_Starting screen of the app._ 
 
-![Job Searching](app3.png)  
+![SignUp](screenshorts/app2.png)  
+_SignUp screen of the app._  
+
+![Job Searching](screenshorts/app3.png)  
 _Main page where users can find the jobs Bookmark them or mail the recruit._
+
+![Profile](screenshorts/app4.png)  
+_Page where users can find there job applications with status and update his profile._
 
